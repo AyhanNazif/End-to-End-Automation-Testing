@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-01T17:12:26 EEST" name="Default suite" finished-at="2024-09-01T17:13:02 EEST" duration-ms="35917">
+    <groups>
+    </groups>
+    <test started-at="2024-09-01T17:12:26 EEST" name="Default test" finished-at="2024-09-01T17:13:02 EEST" duration-ms="35917">
+      <class name="com.simplelearn.MovieCatalogId.MovieCatalogTestsTestNG">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.simplelearn.MovieCatalogId.MovieCatalogTestsTestNG@40238dd0]" started-at="2024-09-01T17:12:26 EEST" name="SetUp" finished-at="2024-09-01T17:12:38 EEST" duration-ms="11134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="AddMovieTest()[pri:1, instance:com.simplelearn.MovieCatalogId.MovieCatalogTestsTestNG@40238dd0]" started-at="2024-09-01T17:12:38 EEST" name="AddMovieTest" finished-at="2024-09-01T17:12:42 EEST" duration-ms="4381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddMovieTest -->
+        <test-method signature="AddMovieWithEmptyTitleTest()[pri:2, instance:com.simplelearn.MovieCatalogId.MovieCatalogTestsTestNG@40238dd0]" started-at="2024-09-01T17:12:42 EEST" name="AddMovieWithEmptyTitleTest" finished-at="2024-09-01T17:12:44 EEST" duration-ms="1347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddMovieWithEmptyTitleTest -->
+        <test-method signature="AddMovieWithEmtpyDescriptionTest()[pri:3, instance:com.simplelearn.MovieCatalogId.MovieCatalogTestsTestNG@40238dd0]" started-at="2024-09-01T17:12:44 EEST" name="AddMovieWithEmtpyDescriptionTest" finished-at="2024-09-01T17:12:45 EEST" duration-ms="1052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddMovieWithEmtpyDescriptionTest -->
+        <test-method signature="EditMovieTest()[pri:4, instance:com.simplelearn.MovieCatalogId.MovieCatalogTestsTestNG@40238dd0]" started-at="2024-09-01T17:12:45 EEST" name="EditMovieTest" finished-at="2024-09-01T17:12:48 EEST" duration-ms="3206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditMovieTest -->
+        <test-method signature="EditMovieWithEmptyTitleTest()[pri:5, instance:com.simplelearn.MovieCatalogId.MovieCatalogTestsTestNG@40238dd0]" started-at="2024-09-01T17:12:48 EEST" name="EditMovieWithEmptyTitleTest" finished-at="2024-09-01T17:12:50 EEST" duration-ms="2463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditMovieWithEmptyTitleTest -->
+        <test-method signature="EditMovieWithEmptyDescriptionTest()[pri:6, instance:com.simplelearn.MovieCatalogId.MovieCatalogTestsTestNG@40238dd0]" started-at="2024-09-01T17:12:50 EEST" name="EditMovieWithEmptyDescriptionTest" finished-at="2024-09-01T17:12:53 EEST" duration-ms="2528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditMovieWithEmptyDescriptionTest -->
+        <test-method signature="MarkLastAddedMovieAsWatchedTest()[pri:7, instance:com.simplelearn.MovieCatalogId.MovieCatalogTestsTestNG@40238dd0]" started-at="2024-09-01T17:12:53 EEST" name="MarkLastAddedMovieAsWatchedTest" finished-at="2024-09-01T17:12:56 EEST" duration-ms="3160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MarkLastAddedMovieAsWatchedTest -->
+        <test-method signature="MarkLastAddedMovieAsUnWatchedTest()[pri:8, instance:com.simplelearn.MovieCatalogId.MovieCatalogTestsTestNG@40238dd0]" started-at="2024-09-01T17:12:56 EEST" name="MarkLastAddedMovieAsUnWatchedTest" finished-at="2024-09-01T17:12:59 EEST" duration-ms="2991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MarkLastAddedMovieAsUnWatchedTest -->
+        <test-method signature="DeleteLastAddedMovieTest()[pri:9, instance:com.simplelearn.MovieCatalogId.MovieCatalogTestsTestNG@40238dd0]" started-at="2024-09-01T17:12:59 EEST" name="DeleteLastAddedMovieTest" finished-at="2024-09-01T17:13:02 EEST" duration-ms="3034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteLastAddedMovieTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.simplelearn.MovieCatalogId.MovieCatalogTestsTestNG@40238dd0]" started-at="2024-09-01T17:13:02 EEST" name="TearDown" finished-at="2024-09-01T17:13:02 EEST" duration-ms="375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.simplelearn.MovieCatalogId.MovieCatalogTestsTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
